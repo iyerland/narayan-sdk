@@ -5,7 +5,7 @@ Python SDK that makes the `Lord Of the Rings` API accessible to other developers
 /movie/{id}
 /movie/{id}/quote
 ```
-Details of the design can be found in `DESIGN.md`
+Details of the design and how to run it locally or use the package in your client code can be found in `DESIGN.md`
 
 The name of the package is `lotr-sdk-iyerland` and published to Python Package Index (PyPi).
 
