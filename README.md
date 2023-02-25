@@ -7,7 +7,7 @@ Python SDK that makes the `Lord Of the Rings` API accessible to other developers
 ```
 Details of the design can be found in `DESIGN.md`
 
-The name of the package is `lotr_sdk_iyerland` and published to Python Package Index (PyPi).
+The name of the package is `lotr-sdk-iyerland` and published to Python Package Index (PyPi).
 
 ## Assumptions
 Python3 & Pip3 are already installed on the target machine where this 
