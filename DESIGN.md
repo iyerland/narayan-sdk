@@ -31,10 +31,13 @@ For example, clients could log the error and display a user-friendly message to 
 
 1. Install the SDK:
    ```
-    pip install lotr_sdk_iyerland
+    pip3 install lotr_sdk_iyerland
+    pip3 install urllib3 
+    
    ```
 2. Import the SDK: 
    ```
+   # open up a python shell
    import lotr_sdk_iyerland
    from lotr_sdk_iyerland import OneApiSdk
    ```
