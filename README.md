@@ -50,7 +50,7 @@ It is a 3rd part library as opposed to being part of the standard library, so it
 A. Yes, definitely, it completely abstracts the API, and can make it easier to use, in fact, if needed, can also be customized, if a high-paying customer demands it.
 
 5. If you had more time, what else would you add?
-A. Currently, it is very basic, I did it in a language, which is not my strong point. But I would re-implement in a statically & strongly typed language, like say `Rust` which is performant and a minimalist language (comparitively). I would define separate classes for each resource like `Movie`, `Character`, `Quote` and have functions associated with them. Ensure proper error handling and messaging and retries which would all be configurable. These all would be part of different packages like `domain`, `client`, `common` and neatly designed.
+A. Currently, it is very basic, I did it in a language, which is not my strong point. But I would re-implement in a statically & strongly typed language, like say `Rust` which is performant and a minimalist language (comparitively). I would define separate classes for each resource like `Movie`, `Character`, `Quote` and have functions associated with them. Ensure proper error handling, messaging, retries and pagination which would all be configurable. These all would be part of different packages like `domain`, `client`, `common` and neatly designed.
 
 6. What would you change in your current SDK solution?
 A. See answer to 5.
