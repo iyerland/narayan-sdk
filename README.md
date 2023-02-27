@@ -55,5 +55,5 @@ A. See answer to 5.
 7. On a scale of 1 to 10, how would you rate this SDK? (higher is better).
 A. I would rate it as a 7 as it works, and has a minimal test suite and does what its supposed to do, in a language, which is not my strong point and has error handling and retries, albeit very basic.
 
-8 - Anything else we should keep in mind when we evaluate the project?
+8. Anything else we should keep in mind when we evaluate the project?
 A. We are all creatures of habbit and tend to remember and fluent at what we've been working on recently and that SDK was one of the artifacts that I have least worked on in my career. So please judge accordingly. I was more interested in getting a MVP out of the door ASAP. So time was something I was very conscientious about!
