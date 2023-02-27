@@ -19,7 +19,7 @@ After checking out the code (from github) and while in project folder, run:
 python3 -m unittest
 ```
 
-## How to test the code
+## How to test/run the code
 Detailed in `DESIGN.md`.
 
 ## Self-Evaluation Survey
