@@ -47,7 +47,7 @@ For example, clients could log the error and display a user-friendly message to 
     api_key = 'your_api_key_here'
     one_api_sdk = OneApiSdk(api_key, log_level=logging.DEBUG)
    ``` 
-4. Use the SDK:
+4. Use the SDK (from the shell the try/except is not required):
    ```
     try:
         # Get all movies
