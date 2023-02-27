@@ -2,9 +2,11 @@
 The purpose of this SDK is to abstract the `[The One API](`https://the-one-api.dev/)`. It serves your needs regarding data about The Lord of the Rings, the epic books by J. R. R. Tolkien and the official movie adaptions by Peter Jackson.
 This SDK limits itself to the following endpoints due to time constraints and will be updated as and when time permits:
 
+```
 - /movie
 - /movie/{id}
 - /movie/{id}/quote
+```
 
 ## Design Principles
 The code is fairly straight forward and design is pretty simple due to 
