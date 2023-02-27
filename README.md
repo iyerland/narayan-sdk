@@ -13,11 +13,14 @@ The name of the package is `lotr-sdk-iyerland` and published to Python Package I
 Python3 & Pip3 are already installed on the target machine where this 
 repo will be cloned and tested.
 
-## How to test the code
+## How to unit test the code
 After checking out the code (from github) and while in project folder, run:
 ```
 python3 -m unittest
 ```
+
+## How to test the code
+Detailed in `DESIGN.md`.
 
 ## Self-Evaluation Survey
 
