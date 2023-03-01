@@ -45,7 +45,7 @@ A. I used `urllib3` which was pretty straightforward for the job at hand. But ma
 - Support for gzip and deflate encoding
 - Proxy support for HTTP and SOCKS
 
-It is a 3rd part library as opposed to being part of the standard library, so it needs to be installed separately through `pip3`.
+  It is a 3rd part library as opposed to being part of the standard library, so it needs to be installed separately through `pip3`.
 
 4. Do you feel this SDK makes it easier to interact with the API?
 A. Yes, definitely, it completely abstracts the API, and can make it easier to use, in fact, if needed, can also be customized, if a high-paying customer demands it.
