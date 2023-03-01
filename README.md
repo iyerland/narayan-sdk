@@ -44,6 +44,7 @@ A. I used `urllib3` which was pretty straightforward for the job at hand. But ma
 - Helpers for retrying requests and dealing with HTTP redirects
 - Support for gzip and deflate encoding
 - Proxy support for HTTP and SOCKS
+
 It is a 3rd part library as opposed to being part of the standard library, so it needs to be installed separately through `pip3`.
 
 4. Do you feel this SDK makes it easier to interact with the API?
